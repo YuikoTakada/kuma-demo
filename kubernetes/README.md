@@ -124,6 +124,8 @@ This marketplace application is currently running **WITHOUT** Kuma. So all traff
 
 ### Kuma
 
+> :warning: **The demo is currently incompatible with Kuma  v0.5.0 due to the breaking changes mentioned in the [CHANGELOG](https://github.com/Kong/kuma/blob/master/CHANGELOG.md). Please use v0.4.0 as we work to update this demo.**
+
 Kuma is an open-source control plane for modern connectivity, delivering high performance and reliability with Envoy. We will have to download it first and then install it onto the Kubernetes cluster.
 
 #### Download

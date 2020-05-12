@@ -94,6 +94,8 @@ To shop at Kuma's marketplace, access the Kong gateway that is the ingress to yo
 
 ### Kuma
 
+> :warning: **The demo is currently incompatible with Kuma  v0.5.0 due to the breaking changes mentioned in the [CHANGELOG](https://github.com/Kong/kuma/blob/master/CHANGELOG.md). Please use v0.4.0 as we work to update this demo.**
+
 The following command will download the Mac compatible version of Kuma. To find the correct version for your operating system, please check out [Kuma's official installation page](https://kuma.io/install).
 
 ```bash
